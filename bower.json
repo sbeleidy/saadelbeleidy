@@ -1,0 +1,9 @@
+{
+  "name": "Saad Elbeleidy",
+  "description": "Saad Elbeleidy's poly-me site",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "poly-me": "*"
+  }
+}

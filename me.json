@@ -1,0 +1,216 @@
+{
+  "content": {
+    "name": "Saad Elbeleidy",
+    "profileImage": "images/profile.jpg",
+    "backgroundImage": "images/background.jpeg",
+    "position": "Techie",
+    "location": "Denver, CO",
+    "social": {
+      "title": "",
+      "profiles": [
+        {
+          "network": "twitter",
+          "link": "https://twitter.com/sbeleidy"
+        },
+        {
+          "network": "github",
+          "link": "https://github.com/sbeleidy"
+        },
+        {
+          "network": "linkedin",
+          "link": "https://linkedin.com/in/saadelbeleidy"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "title": "About",
+        "type": "content",
+        "content": "Problem solver passionate about technology, the web and data.",
+        "sections": [
+          {
+            "title": "Technology",
+            "image": "images/tech.jpg",
+            "content": "From the written word to the iPhone, technology allows us to solve problems in a simple way with minimal user effort."
+          },
+          {
+            "title": "Web",
+            "image": "images/web.jpg",
+            "content": "Software, and the web specifically, make it easy to share our solutions with everyone around the world."
+          },
+          {
+            "title": "Data",
+            "image": "images/data.jpg",
+            "content": "Data allows us to solve real problems at a massive scale."
+          }
+        ],
+        "lowerContent": "Combining the simplicity of technological solutions with the accessibility of the web and the scalability of data allows us to solve real problems at scale, making the world a better place. If this is something that interests you, please get in touch! I'd love to work with you."
+      },
+      {
+        "title": "Experience",
+        "type": "dated",
+        "sections": [
+          {
+            "title": "Software Engineer",
+            "org": "RiteKit",
+            "orgLink": "https://ritekit.com",
+            "start": "November 2015",
+            "end": "July 2016",
+            "content": "Collaborated with a remote team to develop powerful social media platform and led effort to split core product into 4 separate products."
+          },
+          {
+            "title": "Business Analyst",
+            "org": "Sunboat Commerce",
+            "orgLink": "#",
+            "start": "November 2014",
+            "end": "November 2015",
+            "content": "Managed product import process; selecting new products to import, planning future shipments, developing pricing models and distribution to retailers."
+          },
+          {
+            "title": "Product Manager Intern",
+            "org": "Pivvit",
+            "orgLink": "https://pivvit.com",
+            "start": "June 2012",
+            "end": "September 2012",
+            "content": "Played an active role in every step of the development cycle of a complex e-commerce and philanthropy platform."
+          },
+          {
+            "title": "Software Developer Intern",
+            "org": "KarmSolar",
+            "orgLink": "https://karmsolar.com",
+            "start": "June 2011",
+            "end": "September 2011",
+            "content": "Developed model and simulation of solar power plant and web site for client interfacing with the model."
+          },
+          {
+            "title": "Intern",
+            "org": "The Sierra Club",
+            "orgLink": "http://www.sierraclub.org",
+            "start": "August 2008",
+            "end": "May 2012",
+            "content": "Raised awareness on environmental issues, assisted with event organization and attended public hearings."
+          }
+        ]
+      },
+      {
+        "title": "Projects",
+        "type": "cards",
+        "sections": [
+          {
+            "title": "login-fire",
+            "content": "Web component for simple setup of authentication with FireBase",
+            "link": "https://github.com/convoo/login-fire",
+            "linkButton": "View Code"
+          },
+          {
+            "title": "convoo",
+            "content": "A platform for conversations",
+            "link": "https://convoo.me",
+            "linkButton": "Live Site"
+          },
+          {
+            "title": "webrtc-elements",
+            "content": "Web component set for simple WebRTC video integration",
+            "link": "https://github.com/convoo/webrtc-elements",
+            "linkButton": "View Code"
+          },
+          {
+            "title": "poly-me",
+            "content": "A polymer based resume / profile",
+            "link": "https://github.com/sbeleidy/poly-me",
+            "linkButton": "View Code"
+          },
+          {
+            "title": "my-pomodoro",
+            "content": "A timer to follow the Pomodoro Technique",
+            "link": "https://github.com/sbeleidy/my-pomodoro",
+            "linkButton": "View Code"
+          },
+          {
+            "title": "merror.me",
+            "content": "A mirror",
+            "link": "https://merror.me",
+            "linkButton": "Live Site"
+          }
+        ]
+      },
+      {
+        "title": "Posts",
+        "type": "cards",
+        "sections": [
+          {
+            "title": "min(KR)",
+            "image": "images/min(KR).png",
+            "content": "Minimum Knowledge Required helps people learn enough to get started.",
+            "link": "http://minkr.xyz",
+            "linkButton": "Learn More"
+          },
+          {
+            "title": "A Weekend With",
+            "image": "images/A Weekend With.png",
+            "content": "Occasional summaries of weekends spent learning something new.",
+            "link": "https://medium.com/a-weekend-with",
+            "linkButton": "Read More"
+          },
+          {
+            "title": "plata",
+            "image": "images/plata.png",
+            "content": "Playing with data to spot patterns, extract knowledge and make predictions.",
+            "link": "https://medium.com/plata",
+            "linkButton": "Discover More"
+          }
+        ]
+      },
+      {
+        "title": "Education",
+        "type": "dated",
+        "sections": [
+          {
+            "title": "M.S. Computer Science",
+            "org": "Colorado School of Mines",
+            "orgLink": "https://mines.edu",
+            "start": "August 2016",
+            "end": "May 2018 (Expected)",
+            "content": "Focusing on Data Science & Machine Learning"
+          },
+          {
+            "title": "Cert. Data Analytics",
+            "org": "George Mason University",
+            "orgLink": "https://gmu.edu",
+            "start": "August 2013",
+            "end": "May 2014",
+            "content": "A brief introduction to Big Data, data mining and statistical visualizations."
+          },
+          {
+            "title": "M.S. Operations Research",
+            "org": "George Mason University",
+            "orgLink": "https://gmu.edu",
+            "start": "August 2012",
+            "end": "May 2014",
+            "content": "Concentration in Financial Engineering. "
+          },
+          {
+            "title": "B.S. Systems Engineering",
+            "org": "George Mason University",
+            "orgLink": "https://gmu.edu",
+            "start": "August 2008",
+            "end": "May 2012",
+            "content": "Concentration in Software Intensive Systems. Minors in Business and Renewable Energy."
+          }
+        ]
+      },
+      {
+        "title": "Get In Touch",
+        "type": "contact",
+        "content": "Combining the simplicity of technological solutions with the accessibility of the web and the scalability of data allows us to solve real problems at scale, making the world a better place. If this is something that interests you, please get in touch! I'd love to work with you.",
+        "email": "sbeleidy90@gmail.com",
+        "subject": "saadelbeleidy.com contact form submission"
+      }
+    ]
+  },
+  "settings": {
+    "primaryColor": "#B2BABF",
+    "tabBarColor": "red"
+  }
+
+}
